@@ -1,1 +1,6 @@
-benchmarkId,board,createdAt,sha256,md5,state,cycles,duration_ms,device,frequency_MHz,model_name,model_size,rom_n_macc,val_error,allocate-inputs,allocate-outputs,compression,optimization,layersInExternalFlash,layersInInternalFlash,useExternalFlash,useExternalRam,total_flash_bytes,total_ram_bytes,internal_flash,external_flash,internal_ram,external_ram,activations_bytes,weights_bytes,extra_flash_bytes,kernel_flash_bytes,extra_ram_bytes,kernel_ram_bytes,io_bytes
+﻿benchmarkId,board,createdAt,sha256,md5,state,cycles,duration_ms,device,frequency_MHz,model_name,model_size,rom_n_macc,val_error,allocate-inputs,allocate-outputs,compression,optimization,layersInExternalFlash,layersInInternalFlash,useExternalFlash,useExternalRam,total_flash_bytes,total_ram_bytes,internal_flash,external_flash,internal_ram,external_ram,activations_bytes,weights_bytes,extra_flash_bytes,kernel_flash_bytes,extra_ram_bytes,kernel_ram_bytes,io_bytes
+,STM32MP257F-EV1 ,,,,,,25.539999999999999,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,STM32MP135F-DK ,,,,,,92.420000000000002,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,STM32MP157F-DK2 ,,,,,,58.390000000000001,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
